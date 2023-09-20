@@ -5,9 +5,6 @@ class Heroi{
         this.tipo = tipo;
 
     }
-    atacar(){
-        console.log(`o ${this.tipo} atacou usando`)
-    }
 }
 
 let arrayTipo = [
